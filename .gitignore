@@ -43,3 +43,10 @@ third_party/grconvnet/
 *.pt
 *.pth
 *.ckpt
+
+# ---- Editor temp ----
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
