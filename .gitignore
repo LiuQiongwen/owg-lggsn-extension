@@ -29,3 +29,12 @@ third_party/grconvnet/
 
 # ---- OS ----
 .DS_Store
+
+# editor temp
+*.swp
+*.swo
+*~
+
+# backups
+*.bak
+*.backup
